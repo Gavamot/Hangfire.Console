@@ -123,7 +123,7 @@ It will automatically update progress bar during enumeration, and will set progr
 
 ## License
 
-Copyright (c) 2016 Alexey Skalozub
+Copyright (c) 2023 Gavamot
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
