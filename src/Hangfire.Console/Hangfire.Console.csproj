@@ -13,7 +13,7 @@
       v1.0.0:
       • To NetStandart 2.1
       • Updated version Hangfire.AspNetCore to 1.8.6
-      • Got this unsuported project as base https://github.com/pieceofsummer/Hangfire.Console
+      • Got this unsupported  project as base https://github.com/pieceofsummer/Hangfire.Console
     </PackageReleaseNotes>
     <PackageIconUrl>https://raw.githubusercontent.com/pieceofsummer/Hangfire.Console/master/hangfire.console.png</PackageIconUrl>
     <PackageLicenseUrl>https://raw.githubusercontent.com/pieceofsummer/Hangfire.Console/master/LICENSE.md</PackageLicenseUrl>
